@@ -2,6 +2,8 @@
 permalink: /publications/
 title: "Publications"
 author_profile: true
+header:
+    image: /assets/images/bear-trap.jpg
 ---
 
 *Denotes equal contribution.
