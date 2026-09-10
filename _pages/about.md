@@ -7,9 +7,9 @@ author_profile: true
 
 I am a Ph.D. candidate in [Earth System Science](https://earth.stanford.edu/) at Stanford University, advised by [Kevin Arrigo](https://earth.stanford.edu/people/kevin-arrigo). My research focuses on polar marine biogeochemistry — how physical and chemical processes in the Arctic and Southern Oceans shape primary production and the export of organic carbon.
 
-Much of my current work centers on sediment trap deployments and water-mass dynamics in the Chukchi Sea, and on iron limitation in the surface waters of the Australian-Antarctic Ridge. I've spent time at sea on the R/V *Sikuliaq* in the Chukchi Sea and on the RVIB *Nathaniel B. Palmer* in the Pacific sector of the Southern Ocean and northwest Ross Sea, working with trace-metal clean sampling, CTD surveys, particle interceptor traps, and image-based taxonomy.
+I use a combination of satellite remote sensing and field work to examine the drivers of net primary production and carbon export in the Arctic and Southern Oceans. Much of my current work centers on the influence of frontal dynamics on carbon export in the Chukchi Sea, and on iron limitation and phytoplankton community response in the surface waters of the Northwest Ross Sea, near the Australian Antarctic Ridge. I've spent time at sea on the R/V *Sikuliaq* in the Chukchi Sea and on the RVIB *Nathaniel B. Palmer* in the northwest Ross Sea.
 
-Before Stanford, I earned a B.S. in Biochemistry and Environment (with a specialization in Microbial Ecology) at the University of Michigan, where I studied algal-bacterial interactions and harmful algal blooms in the Denef Lab, and amyloidogenic protein biochemistry in the Jakob Lab.
+Before Stanford, I earned a B.S. in Biochemistry and Environment at the University of Michigan, where I used culture experiments and molecular methods to study algal-bacterial interactions and harmful algal blooms in the Denef Lab.
 
 I'm expected to graduate in Summer 2027.
 
