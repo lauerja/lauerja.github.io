@@ -4,7 +4,7 @@ title: "CV"
 author_profile: true
 ---
 
-[Download full CV (PDF)]({{ site.baseurl }}/assets/images/JamesLauerCV.pdf){: .btn .btn--primary}
+[Download full CV (PDF)]({{ site.baseurl }}/assets/JamesLauerCV.pdf){: .btn .btn--primary}
 {: .text-center}
 
 ## Education
